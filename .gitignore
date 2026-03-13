@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local models / data
+models/
+data/index.faiss
+data/docstore.json
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+llama-cpp-python
+sentence-transformers
+faiss-cpu
+numpy
+requests
+huggingface_hub
