@@ -8,6 +8,9 @@ models/
 data/index.faiss
 data/docstore.json
 
+# Azure local config
+.azure-config/
+
 # OS / editor
 .DS_Store
 .vscode/
