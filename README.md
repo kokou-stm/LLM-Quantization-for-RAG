@@ -1,5 +1,7 @@
 # Quantized LLM + RAG (FastAPI + FAISS + Phi‑3)
 
+![LLM Quantization](image.png)
+
 ## Goal
 Deploy a small, low‑cost LLM with 4‑bit quantization + RAG, exposed via a clean FastAPI service that can run on CPU‑only servers (e.g., Azure Container Instances).
 
