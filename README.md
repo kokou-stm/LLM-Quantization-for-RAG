@@ -31,7 +31,7 @@ python3.12 -m venv .venv
 . .venv/bin/activate
 pip install -r requirements.txt
 
-# Download 4-bit Phi-3 GGUF
+# Download 4-bit Phi-3 GGUF (also uploaded on my HF: [sitsope/phi-3-mini-4k-instruct-q4](https://huggingface.co/sitsope/phi-3-mini-4k-instruct-q4))
 python scripts/download_model.py \
   --repo microsoft/Phi-3-mini-4k-instruct-gguf \
   --filename Phi-3-mini-4k-instruct-q4.gguf \
